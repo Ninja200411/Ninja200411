@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninja200411&show_icons=true&locale=en&layout=compact" alt="ninja200411" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninja200411&show_icons=true&locale=en" alt="ninja200411" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninja200411&" alt="ninja200411" /></p>
